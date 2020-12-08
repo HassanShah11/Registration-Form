@@ -1,0 +1,31 @@
+body{
+    font-size: 20px;
+}
+
+.logo{
+    width: 500px;
+}
+.saylani{
+    text-align: center;
+}
+
+.fom{
+    background-color: rgb(197, 189, 189);
+    width: 600px;
+    padding-left:10px ;
+    text-align: left;
+    padding-bottom: 10px;
+}
+input , textarea , select{
+    padding: 5px;
+    background-color: rgb(248, 244, 244) ;
+    border: none;
+    border-radius: 2px;
+}
+.check{
+    padding: 60px;
+    width: 180px;
+}
+.tex{
+    font-size: 35px;
+}
